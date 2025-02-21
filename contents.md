@@ -5,7 +5,6 @@
 # [Part 4 M:N(다대다) 관계와 파일 업로드 처리](https://github.com/simpleego/SpringBoot/blob/main/)
 # [Part 5 Spring Security를 이용한 로그인 처리](https://github.com/simpleego/SpringBoot/blob/main/)
 
---- 
 # 전체 목차 
 
     첫째 날(Day 1)
